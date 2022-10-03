@@ -1,3 +1,3 @@
-# FEPPCT
+# II-FPPCT
 
-Implementation of FEPPCT Encryption
+An advanced implementation of FEPPCT Encryption named II-FPPCT

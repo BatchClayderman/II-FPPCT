@@ -1,3 +1,3 @@
-# II-FPPCT
+# CA-NI-FPPCT
 
-An advanced implementation of FEPPCT Encryption named II-FPPCT
+This is a novel encryption scheme named CA-NI-FPPCT, which outperforms the FEPPCT encryption scheme. 

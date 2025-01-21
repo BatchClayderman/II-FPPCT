@@ -1,10 +1,16 @@
 # II-FPPCT
 
-This is the official implementation of the II-FPPCT cryptography scheme, which outperforms the baseline, the [FPPECT cryptography scheme](https://github.com/BatchClayderman/FEPPCT). 
+This is the official implementation of the II-FPPCT cryptography scheme (``Non-interactive set intersection for privacy-preserving contact tracing``) in Java programming language based on the JPBC library, which outperforms the baseline, the [FPPECT cryptography scheme](https://github.com/BatchClayderman/FEPPCT). 
+
+This repository is a part of the [cryptography schemes](https://github.com/BatchClayderman/Cryptography-Schemes). 
+
+## Caution
 
 As out-of-date application programming interfaces were used in this version, this repository will **no longer be under maintenance**. 
 
-Since this repository may contain potential errors and exceptions due to out-of-date maintenance, please refer to [https://github.com/BatchClayderman/CA-NI-FPPCT](https://github.com/BatchClayderman/CA-NI-FPPCT) and [https://github.com/BatchClayderman/Cryptography-Schemes](https://github.com/BatchClayderman/Cryptography-Schemes). 
+Since this repository may contain potential errors and exceptions due to out-of-date maintenance, please refer to [https://github.com/BatchClayderman/CA-NI-FPPCT](https://github.com/BatchClayderman/CA-NI-FPPCT). 
+
+## Citation
 
 If you wish to cite this work, please use the following BibTeX. 
 
